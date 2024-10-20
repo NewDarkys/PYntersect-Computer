@@ -44,6 +44,9 @@ PYntersect Computer был создан, чтобы предоставить в�
 
 
 
+
+
+
 # PYntersect Computer
 
 **PYntersect-Computer** is an analogue of the **xsublim** and **Intersect Computer** programs, written in Python. It provides the ability to render LaTeX formulas, supports color changes, and allows for timing configurations. Thanks to the absence of a graphical interface, Sublims can render over games (as long as they are running in windowed mode).
