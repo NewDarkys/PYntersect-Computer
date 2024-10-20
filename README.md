@@ -13,10 +13,10 @@
 - **LaTeX Support**: Rendering formulas using LaTeX.
 - **Color Changes**: Ability to choose various bright colors for rendering.
 - **Timing Configuration**:
-  - `-delayShow ms`: Delay for displaying each phrase (in microseconds).
+  - `-delayShow ms`: Delay for displaying each phrase (in milliseconds).
   - `-delayWord ms`: Delay between words (in microseconds).
-  - `-delayPhraseMin ms`: Minimum delay between phrases (in microseconds).
-  - `-delayPhraseMax ms`: Maximum delay between phrases (in microseconds).
+  - `-delayPhraseMin ms`: Minimum delay between phrases (in milliseconds).
+  - `-delayPhraseMax ms`: Maximum delay between phrases (in milliseconds).
 - **Display Order Settings**:
   - `-random`: Display phrases in random order (default).
   - `-no-random`: Display phrases in listed order.
